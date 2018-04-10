@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AutoPlay>true</AutoPlay>
+            <Captions>true</Captions>
+            <Controls>true</Controls>
+            <GalleryName>EnsignMainPhotoShow</GalleryName>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>Push</ImageEffect>
+            <ImageHeight>480</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink>true</ImageShrink>
+            <ImageStretch>false</ImageStretch>
+            <ImageTemplate>/Applications/VisualSlideshow.app/Contents/Resources/templates/backgnd/standard/</ImageTemplate>
+            <ImageTemplateName>Standard</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <Loader>false</Loader>
+            <LoopPlay>true</LoopPlay>
+            <NavigationPos>middle</NavigationPos>
+            <PublishFileName>/Users/w5rss/Documents/Personal/EnsignWebSite/photos.htm</PublishFileName>
+            <PublishIndex>photos.htm</PublishIndex>
+            <PublishPath>/Users/w5rss/Documents/Personal/EnsignWebSite</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>page</PublishType>
+            <SlideshowDelay>25</SlideshowDelay>
+            <SlideshowDuration>35</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>90</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>120</ThumbWidth>
+            <Thumbnails>true</Thumbnails>
+        </Settings>
+        <Images>
+            <Image>
+                <url>/Users/w5rss/Downloads/attachments_2011_01_27/Building+Up+Speed.jpg</url>
+                <title>Ensign Starting Line</title>
+            </Image>
+            <Image>
+                <url>/Users/w5rss/Downloads/attachments_2011_01_27/DSC_9516Day+1_racer+2_2009+0404.jpg</url>
+                <title>Dynamite</title>
+            </Image>
+            <Image>
+                <url>/Users/w5rss/Downloads/attachments_2011_01_27/DSC_9733Day+1_race+3_2009+0404.jpg</url>
+                <title>Joan 2.5</title>
+            </Image>
+            <Image>
+                <url>/Users/w5rss/Downloads/attachments_2011_01_27/DSC_9743Day+1_race+3_2009+0404.jpg</url>
+                <title>Ensign Start Line</title>
+            </Image>
+            <Image>
+                <url>/Users/w5rss/Downloads/attachments_2011_01_27/John's+Team.jpg</url>
+                <title>The Other Woman</title>
+            </Image>
+            <Image>
+                <url>/Users/w5rss/Downloads/attachments_2011_01_27/Just+Smiling+Along.jpg</url>
+                <title>Little Oil</title>
+            </Image>
+            <Image>
+                <url>/Users/w5rss/Downloads/attachments_2011_01_27/Lindsay+with+a+View.jpg</url>
+                <title>Downwind</title>
+            </Image>
+            <Image>
+                <url>/Users/w5rss/Downloads/attachments_2011_01_27/The+Crew+of+Lorelei.jpg</url>
+                <title>Lorelei</title>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

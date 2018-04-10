@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<title>Untitled 1</title>
+<style type="text/css">
+.style1 {
+	text-align: center;
+}
+</style>
+
+
+<!-- Start visualslideshow.com HEAD section -->
+<link rel="stylesheet" type="text/css" href="engine/css/slideshow.css" media="screen" /> 
+<style type="text/css">.slideshow a#vlb{display:none}</style> 
+<script type="text/javascript" src="engine/js/mootools.js"></script> 
+<script type="text/javascript" src="engine/js/visualslideshow.js"></script> 
+<!-- End visualslideshow.com HEAD section -->
+
+</head>
+
+<body>
+<div class="style1">
+	<img alt="Ensign Fleet 2 Photos" height="120" src="banner.jpg" width="800" /><br />
+	<br />
+
+
+<!-- Start visualslideshow.com BODY section -->
+<div id="show" class="slideshow"> 
+<div class="slideshow-images">
+<a href=""><img id="slide-0" src="data/images/building+up+speed.jpg" alt="Building+Up+Speed" title="Building+Up+Speed" /></a>
+<a href=""><img id="slide-1" src="data/images/dsc_9516day+1_racer+2_2009+0404.jpg" alt="DSC_9516Day+1_racer+2_2009+0404" title="DSC_9516Day+1_racer+2_2009+0404" /></a>
+<a href=""><img id="slide-2" src="data/images/dsc_9733day+1_race+3_2009+0404.jpg" alt="DSC_9733Day+1_race+3_2009+0404" title="DSC_9733Day+1_race+3_2009+0404" /></a>
+<a href=""><img id="slide-3" src="data/images/dsc_9743day+1_race+3_2009+0404.jpg" alt="DSC_9743Day+1_race+3_2009+0404" title="DSC_9743Day+1_race+3_2009+0404" /></a>
+<a href=""><img id="slide-4" src="data/images/john's+team.jpg" alt="John's+Team" title="John's+Team" /></a>
+<a href=""><img id="slide-5" src="data/images/just+smiling+along.jpg" alt="Just+Smiling+Along" title="Just+Smiling+Along" /></a>
+<a href=""><img id="slide-6" src="data/images/lindsay+with+a+view.jpg" alt="Lindsay+with+a+View" title="Lindsay+with+a+View" /></a>
+<a href=""><img id="slide-7" src="data/images/the+crew+of+lorelei.jpg" alt="The+Crew+of+Lorelei" title="The+Crew+of+Lorelei" /></a>
+</div>
+<div class="slideshow-thumbnails">
+<ul>
+<li><a href="#slide-0"><img src="data/thumbnails/building+up+speed.jpg" alt="Building+Up+Speed" /></a></li>
+<li><a href="#slide-1"><img src="data/thumbnails/dsc_9516day+1_racer+2_2009+0404.jpg" alt="DSC_9516Day+1_racer+2_2009+0404" /></a></li>
+<li><a href="#slide-2"><img src="data/thumbnails/dsc_9733day+1_race+3_2009+0404.jpg" alt="DSC_9733Day+1_race+3_2009+0404" /></a></li>
+<li><a href="#slide-3"><img src="data/thumbnails/dsc_9743day+1_race+3_2009+0404.jpg" alt="DSC_9743Day+1_race+3_2009+0404" /></a></li>
+<li><a href="#slide-4"><img src="data/thumbnails/john's+team.jpg" alt="John's+Team" /></a></li>
+<li><a href="#slide-5"><img src="data/thumbnails/just+smiling+along.jpg" alt="Just+Smiling+Along" /></a></li>
+<li><a href="#slide-6"><img src="data/thumbnails/lindsay+with+a+view.jpg" alt="Lindsay+with+a+View" /></a></li>
+<li><a href="#slide-7"><img src="data/thumbnails/the+crew+of+lorelei.jpg" alt="The+Crew+of+Lorelei" /></a></li>
+</ul>
+</div>
+<a id="vlb" href="http://visualslideshow.com">Slideshow by VisualSlideshow.com v1.2m</a> 
+</div> 
+<!-- End visualslideshow.com BODY section -->
+
+<a href="http://s786.photobucket.com/albums/yy141/ensignfleet2/Misc/?action=view&current=01.jpg" target="_blank">
+	<img src="th_01.jpg" border="0" alt="Photobucket" ></a>&nbsp;
+<a href="http://s786.photobucket.com/albums/yy141/ensignfleet2/Misc/?action=view&current=02.jpg" target="_blank">
+	<img src="th_02.jpg" border="0" alt="Photobucket" ></a>
+<a href="http://s786.photobucket.com/albums/yy141/ensignfleet2/Misc/?action=view&current=03.jpg" target="_blank">
+	<img src="th_03.jpg" border="0" alt="Photobucket" ></a>
+<a href="http://s786.photobucket.com/albums/yy141/ensignfleet2/Misc/?action=view&current=04.jpg" target="_blank">
+	<img src="th_04.jpg" border="0" alt="Photobucket" ></a><br />
+<a href="http://s786.photobucket.com/albums/yy141/ensignfleet2/Misc/?action=view&current=05.jpg" target="_blank">
+	<img src="th_05.jpg" border="0" alt="Photobucket" ></a>
+<a href="http://s786.photobucket.com/albums/yy141/ensignfleet2/Misc/?action=view&current=06.jpg" target="_blank">
+	<img src="th_06.jpg" border="0" alt="Photobucket" ></a>
+<a href="http://s786.photobucket.com/albums/yy141/ensignfleet2/Misc/?action=view&current=07.jpg" target="_blank">
+	<img src="th_07.jpg" border="0" alt="Photobucket" ></a>
+<a href="http://s786.photobucket.com/albums/yy141/ensignfleet2/Misc/?action=view&current=08.jpg" target="_blank">
+	<img src="th_08.jpg" border="0" alt="Photobucket" ></a><br />
+<a href="http://s786.photobucket.com/albums/yy141/ensignfleet2/Misc/?action=view&current=09.jpg" target="_blank">
+	<img src="th_09.jpg" border="0" alt="Photobucket" ></a>
+<a href="http://s786.photobucket.com/albums/yy141/ensignfleet2/Misc/?action=view&current=10.jpg" target="_blank">
+	<img src="th_10.jpg" border="0" alt="Photobucket" ></a>
+<a href="http://s786.photobucket.com/albums/yy141/ensignfleet2/Misc/?action=view&current=11.jpg" target="_blank">
+	<img src="th_11.jpg" border="0" alt="Photobucket" ></a>
+<a href="http://s786.photobucket.com/albums/yy141/ensignfleet2/Misc/?action=view&current=12.jpg" target="_blank">
+	<img src="th_12.jpg" border="0" alt="Photobucket" ></a><br />
+<a href="http://s786.photobucket.com/albums/yy141/ensignfleet2/Misc/?action=view&current=13.jpg" target="_blank">
+	<img src="th_13.jpg" border="0" alt="Photobucket" ></a>
+<a href="http://s786.photobucket.com/albums/yy141/ensignfleet2/Misc/?action=view&current=14.jpg" target="_blank">
+	<img src="th_14.jpg" border="0" alt="Photobucket" ></a>&nbsp;&nbsp; </div>
+</body>
+
+</html>
